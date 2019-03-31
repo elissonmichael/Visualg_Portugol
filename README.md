@@ -1,4 +1,4 @@
-## Visualg3 (Portugol / Português Estruturado)
+## [VisualG 3](http://visualg3.com.br/) (Portugol / Português Estruturado)
 
 **Um Passo a Passo na Construção de Algoritmos Voltado para Alunos de FCC e ICC.**
 
@@ -9,4 +9,5 @@ Esse repositório, além de conter alguns exercícios e algoritmos, contém tamb
 Sinta-se a vontade para colaborar. Minha intenção é orgarnizar diferentes respostas de cada exerício em uma pasta separada, com seu próprio arquivode README.md que contém o passo a passo.
 
 Bons estudos.
+
 [Élisson Michael](https://www.youtube.com/user/elisson357)

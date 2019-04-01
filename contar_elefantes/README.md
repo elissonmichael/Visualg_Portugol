@@ -16,10 +16,11 @@ Permita que o usuário escolha quantos elefantes devem ser contados na música.
 Eu gosto de dividir esse problema em três partes:
 
 - Contar Elefantes (Resolver a Repetição)
-- Alterar entre as 2 frases (Resolver a Condição)
-- Concatenar "incomodam " em uma das condições
+- Alternar entre as 2 frases da música (Resolver a Condição)
+- Concatenar a string "incomodam " (Repetir a Palavra "incomodam")
 
-O programa pede para o usuário inserir um número.
+O programa pede para o usuário inserir um número. Vamos chamar essa variável
+de total, do tipo inteiro.
 
 ```
 Var

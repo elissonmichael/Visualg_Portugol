@@ -157,6 +157,7 @@ Inicio
    fimenquanto
 Fimalgoritmo
 ```
+Caso tenha achado confuso, experimente copiar e execute o código acima antes de continuar.
 Veja como essa solução se mescla ao código que já construímos até aqui.
 ```
 Var

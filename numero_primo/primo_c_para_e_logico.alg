@@ -11,7 +11,6 @@ Inicio
       se ((numero % contador) = 0) entao
          primo <- FALSO
       fimse
-      contador <- contador + 1
    fimpara
    se primo entao
       escreva("Número ", numero, " é PRIMO")
